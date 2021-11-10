@@ -1,4 +1,4 @@
-[Dutch version](dutch.md)
+[Dutch version](profile/dutch.md)
 - [1. ENM G3](#1-enm-g3)
   - [1.1. Our team](#11-our-team)
   - [1.2. Project description](#12-project-description)

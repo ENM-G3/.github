@@ -1,4 +1,4 @@
-[English version](README.md)
+[English version](profile/README.md)
 - [1.1. Ons team](#11-ons-team)
 - [1.2. Project omschrijving](#12-project-omschrijving)
   - [1.2.1. Doel](#121-doel)
