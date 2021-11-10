@@ -1,5 +1,5 @@
 [Dutch version](dutch.md)
-- [1. ENM_G3](#1-enm_g3)
+- [1. ENM G3](#1-enm-g3)
   - [1.1. Our team](#11-our-team)
   - [1.2. Project description](#12-project-description)
     - [1.2.1. Goal](#121-goal)
@@ -8,7 +8,7 @@
     - [1.3.1. Facts](#131-facts)
   - [1.4. Trello](#14-trello)
 
-# 1. ENM_G3
+# 1. ENM G3
 In this board you can find all the files to our Team Project in the third semester in MCT
 
 ## 1.1. Our team
@@ -32,9 +32,11 @@ In this board you can find all the files to our Team Project in the third semest
 - Focus on secondary schools
 
 ## 1.3. Draft of our solution
-Data visualization on a screen that has no user input.<br>
-There is no need for electronic components, because all the data is already present in a database. We will use a raspberry pi to run the frontend and backend.<br>
-The backend will be written in C#, and the frontend will be build using HTML, Javascript and CSS.<br>
+Data visualization on a screen that has no user input.
+
+There is no need for electronic components, because all the data is already present in a database. We will use a raspberry pi to run the frontend and backend.
+
+The backend will be written in C#, and the frontend will be build using HTML, Javascript and CSS.
 The data will be visualized using an interval where the data gets cycled. A zoomin and zoomout will be used if we need to visualize time data based on day, week, month and year.
 
 ### 1.3.1. Facts

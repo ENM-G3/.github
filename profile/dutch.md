@@ -1,45 +1,49 @@
 [English version](README.md)
-- [1. ENM_G3](#1-enm_g3)
-  - [1.1. Our team](#11-our-team)
-  - [1.2. Project description](#12-project-description)
-    - [1.2.1. Goal](#121-goal)
-    - [1.2.2. Target audience](#122-target-audience)
-  - [1.3. Draft of our solution](#13-draft-of-our-solution)
-    - [1.3.1. Facts](#131-facts)
-  - [1.4. Trello](#14-trello)
+- [1.1. Ons team](#11-ons-team)
+- [1.2. Project omschrijving](#12-project-omschrijving)
+  - [1.2.1. Doel](#121-doel)
+  - [1.2.2. Doelgroep](#122-doelgroep)
+- [1.3. Draft technische oplossing](#13-draft-technische-oplossing)
+  - [1.3.1. Weetjes](#131-weetjes)
+- [1.4. Trello](#14-trello)
 
-# 1. ENM_G3
-In this board you can find all the files to our Team Project in the third semester in MCT
+1. ENM G3
+In deze organisatie kan je alle files en repositories vinden die te maken hebben met ons Team Project in het derde semester in MCT
 
-## 1.1. Our team
+
+# 1.1. Ons team
 - Bram Bossuyt: 
 - Alec Gheeraert: 
 - Felix Platteau: 
 - Jonas Faber: 
 
-## 1.2. Project description
-### 1.2.1. Goal 
-- Elaboration of an understandable & attractive visualization of the [transformer site](https://www.transfozwevegem.be/)
-  - Visualization of realtime measurements
-  - Visualization of historical measurements
-    - Day, week, month and year consumption
-  - Additional facts / assignments for visualization
-  - Linking energy and climate and financial
-  - Thinking out of the box, in a fun way to appeal to young guests
-    - It has to be more than just a visualization. It has to become more of an experience
+# 1.2. Project omschrijving
+## 1.2.1. Doel 
 
-### 1.2.2. Target audience
-- Focus on secondary schools
+- Uitwerken begrijpbare & aantrekkelijke visualisatie van de [transfo site](https://www.transfozwevegem.be/)
+  - Visualisatie van realtime metingen (5 sec basis) 
+  - Visualisatie van historische metingen 
+    - Dag, week, maand, jaarverbruiken 
+  - Bijkomende wist-je-datjes en opdrachten ifv visualisatie 
+  - Link leggen tussen energie & klimaat & financieel 
+  - Think out of the box om dit op een leuke manier te realiseren voor jonge gasten 
+    - Meer dan enkel een visualisatie, het moet een soort beleving worden!! 
 
-## 1.3. Draft of our solution
-Data visualization on a screen that has no user input.<br>
-There is no need for electronic components, because all the data is already present in a database. We will use a raspberry pi to run the frontend and backend.<br>
-The backend will be written in C#, and the frontend will be build using HTML, Javascript and CSS.<br>
-The data will be visualized using an interval where the data gets cycled. A zoomin and zoomout will be used if we need to visualize time data based on day, week, month and year.
 
-### 1.3.1. Facts
-- Compare to something else (eg. How much does it take in a year to charge your phone?)
-- Fastest charger for a Tesla (150kW) (Charged in 20 min)
+## 1.2.2. Doelgroep
+- Focus op middelbare scholen
 
-## 1.4. Trello
-A link to our trello board can be found [here](https://trello.com/b/HxO2EDRK)
+# 1.3. Draft technische oplossing
+Data visualiseren op een scherm waar geen input van de gebruiker kan opgenomen worden.
+
+We hebben geen nood aan elektronische componenten want alle data die we nodig hebben zit opgeslaan in een database die we kunnen raadplegen. We gebruiken wel een pi om de front- en backend op te runnen. 
+
+Backend wordt geschreven in C# en de frontend visualisatie in HTML, JS en CSS. We cyclen tussen realtime, en dan zoom out van dag naar week, maand en ten slotte jaar. De site kan lokaal of in de cloud waardoor je er dan ook gewoon naar toe zou kunnen surfen. 
+Data visualization on a screen that has no user input.
+
+## 1.3.1. Weetjes
+- Vergelijking met iets anders (vergelijking met opladen gsm voor jaar (2KW)) 
+- Snelste lader voor Tesla 150KW 20min 
+
+# 1.4. Trello
+Een link naar ons trello bord vind je [hier](https://trello.com/b/HxO2EDRK)
